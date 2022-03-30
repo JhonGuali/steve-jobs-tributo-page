@@ -1,0 +1,46 @@
+  #title{
+    text-align: center;
+    font-family: Calibri; 
+}
+
+#main{
+  background: whitesmoke;
+  font-family: Calibri;
+  
+}
+
+#img-div{
+  background: white;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+#image{
+  width: 80%;
+  max-width: 100%;
+  margin: auto;
+  display: block;
+}
+
+#img-caption{
+  font-size: 14px;
+  text-align: center;
+  height: 50px;
+  
+}
+
+#tribute-info{
+  font-family: Calibri;
+  font-size: 14px;
+  width: 50%;
+  
+  margin: auto;
+}
+
+#tribute-link{
+  
+}
+
+.lista{
+  margin-top:15px;
+}
